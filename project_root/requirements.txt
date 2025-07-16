@@ -1,8 +1,0 @@
-pandas
-sqlalchemy
-psycopg2
-python-dotenv
-sentence-transformers
-scikit-learn
-openai
-requests

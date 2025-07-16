@@ -1,6 +1,0 @@
-# 앞으로 무시할 파일/폴더
-/data/
-/load_wanted_structured_jobs.py
-.env
-__pycache__/
-*.pyc
