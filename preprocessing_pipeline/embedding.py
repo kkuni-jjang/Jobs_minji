@@ -42,7 +42,8 @@ def embed_jobs(jobs, model_name, batch_size):
         embs = model.encode(
             batch_texts,
             batch_size=batch_size,
-            convert_to_numpy=True
+            convert_to_numpy=True,
+            normalize_embeddings=True
         )
         all_embeddings.append(embs)
 
